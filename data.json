@@ -1,0 +1,43 @@
+{
+  "homeData": {
+    "firstWord": "Hi,I'm",
+    "myname": "Mohammed Osama",
+    "jobtitle": "Front End Developer",
+    "description": "I love to create beautiful and functional websites, Being able to build the designs I produce means I can bring your idea to life and make it usable in future.",
+    "download": "DOWNLOAD RESUME"
+  },
+  "education": {
+    "educ1": "Route Certification – 2024  Route Certification In Front-End ",
+    "date1": "september 2023 – march 2021",
+    "educ2": "Alexandria University faculty of commerce (MIS) Department",
+    "date2": "September 2016 – August 2020"
+  },
+  "myWork":[
+    {
+      "img": "./images/freshCart.png",
+      "title": "freshCart",
+      "github": "https://github.com/mohammedOs1099/fresh-cart",
+      "preview": "https://fresh-cart-hjrwq57xd-mohammedos1099s-projects.vercel.app/"
+    },
+    {
+      "img": "./images/movies.png",
+      "title": "movies",
+      "github": "https://github.com/mohammedOs1099/movis-pag",
+      "preview": "https://movis-pag.vercel.app/"
+    },
+    {
+      "img": "./images/weatherApp.png",
+      "title": "weatherApp",
+      "github": "https://github.com/mohammedOs1099/weather-app",
+      "preview": "https://weather-app-omega-ten-69.vercel.app/"
+    },
+    {
+      "img": "./images/bookMarker.png",
+      "title": "bookMarker",
+      "github": "https://github.com/mohammedOs1099/Book_marker",
+      "preview": "https://book-marker-iota.vercel.app/"
+    }
+  ]
+  
+
+}

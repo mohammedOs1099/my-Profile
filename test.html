@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Single Page Application</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        nav {
+            margin-bottom: 20px;
+        }
+        nav a {
+            margin-right: 15px;
+            text-decoration: none;
+            color: blue;
+        }
+        nav a.active {
+            font-weight: bold;
+            color: darkblue;
+        }
+        #content {
+            padding: 20px;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="#home" id="home-link" class="active">Home</a>
+        <a href="#about" id="about-link">About</a>
+        <a href="#contact" id="contact-link">Contact</a>
+    </nav>
+    <div id="content">
+        <!-- Content will be dynamically injected here -->
+    </div>
+
+    <script src="./test.js"></script>
+</body>
+</html>
