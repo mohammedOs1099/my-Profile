@@ -422,6 +422,12 @@ nav {
     flex-direction: row;
   }
 }
+@media screen and (max-width: 350px) {
+  body{
+    font-size: 1rem;
+  }
+
+}
 @media screen and (max-width: 480px) {
   .home-contant h3 {
     font-size: 2rem;
