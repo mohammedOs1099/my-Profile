@@ -23,7 +23,7 @@ function getHome() {
   <h3><span class="name"></span>&nbsp;</h3>
   <h4 class= "jobtitle" >${jobtitle}</h4>
   <p class= "description" >${description}</p>
-  <a class=" cv-btn btn btn-link btn-outline-success " download  href="./pdf/MohammedOsama-cv.pdf">${download}<i class="fa-solid p-2  fa-cloud-arrow-down"></i></a>
+  <a class=" cv-btn btn btn-link btn-outline-success " download  href="../pdf/Mohammed-osama-cv.pdf">${download}<i class="fa-solid p-2  fa-cloud-arrow-down"></i></a>
  </div> 
    <div class="col-sm-12 col-lg-6 ">
                 <lottie-player
