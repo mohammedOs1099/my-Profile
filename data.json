@@ -12,7 +12,7 @@
     "educ2": "Alexandria University faculty of commerce (MIS) Department",
     "date2": "September 2016 – August 2020"
   },
-  "myWork":[
+  "myWork": [
     {
       "img": "./images/freshCart.png",
       "title": "freshCart",
@@ -20,11 +20,42 @@
       "preview": "https://fresh-cart-hjrwq57xd-mohammedos1099s-projects.vercel.app/"
     },
     {
+      "img": "./images/todos.png",
+      "title": "todos-app",
+      "github": "https://github.com/mohammedOs1099/react-todos",
+      "preview": "https://react-todos-ef62.vercel.app/"
+    },
+    {
+      "img": "./images/notes.png",
+      "title": "Notes-App",
+      "github": "https://github.com/mohammedOs1099/notes-app",
+      "preview": "https://notes-app-three-cyan.vercel.app/"
+    },
+    {
+      "img": "./images/storeBook.png",
+      "title": "Book-store-App",
+      "github": "https://github.com/mohammedOs1099/book-store",
+      "preview": "https://book-store-opal-rho.vercel.app/"
+    },
+    {
       "img": "./images/movies.png",
       "title": "movies",
       "github": "https://github.com/mohammedOs1099/movis-pag",
       "preview": "https://movis-pag.vercel.app/"
     },
+    {
+      "img": "./images/Tenzies-Game.png",
+      "title": "Tenzies-Game-App",
+      "github": "https://github.com/mohammedOs1099/Tenzies-Game",
+      "preview": "https://tenzies-game-ten-psi.vercel.app/"
+    },
+    {
+      "img": "./images/cala.png",
+      "title": "cala-App",
+      "github": "https://github.com/mohammedOs1099/calc",
+      "preview": "https://calc-three-liart.vercel.app/"
+    },
+
     {
       "img": "./images/weatherApp.png",
       "title": "weatherApp",
@@ -38,6 +69,4 @@
       "preview": "https://book-marker-iota.vercel.app/"
     }
   ]
-  
-
 }
